@@ -19,7 +19,12 @@
         <hr>
 
         <input v-model="name">
-        <button @click="saluta">INVIA</button>
+        <button @click="sayHello">INVIA</button>
+
+        <hr>
+
+        <input v-model="color">
+        <div class="ms_box" :class="color"></div>
     </div>
 
     <script src="js/script.js"></script>

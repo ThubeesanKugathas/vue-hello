@@ -1,0 +1,22 @@
+.ms_box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #000;
+    border-radius: 50%;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
